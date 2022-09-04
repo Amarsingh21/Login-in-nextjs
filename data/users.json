@@ -1,0 +1,20 @@
+[
+    {
+        "firstName": "SWAPNIL",
+        "lastName": "SAHARE",
+        "username": "swapnil",
+        "hash": "$2a$10$rvEAFiPLVjHrDcuM1XW3O.v2fBTWjgVboC8Q75OXbZ7cQ2o8pUdJa",
+        "id": 1,
+        "dateCreated": "2022-09-03T10:18:11.749Z",
+        "dateUpdated": "2022-09-03T10:18:11.750Z"
+    },
+    {
+        "firstName": "JUHI",
+        "lastName": "MALHOTRA",
+        "username": "juhi@gmail.com",
+        "hash": "$2a$10$5oZ78/qmCCYdxBaB6Oih6OrlDrDWM9iiQeD09famCiP1h79ChQtfm",
+        "id": 2,
+        "dateCreated": "2022-09-03T10:19:35.242Z",
+        "dateUpdated": "2022-09-03T10:19:35.242Z"
+    }
+]
